@@ -63,7 +63,7 @@ if (!CONFIG.DISCORD_CLIENT_SECRET) { console.warn("⚠️  DISCORD_CLIENT_SECRET
 console.log(`🔍 Railway PORT = ${process.env.PORT} → Using: ${CONFIG.PORT}`);
 
 // ═══════════════════════ ACCESS CONTROL SYSTEM ═══════════════════
-const OWNER_ID = "YOUR_USER_ID_HERE";  // Replace with your Discord user ID
+const OWNER_ID = "1489622661326835874";  // Replace with your Discord user ID
 
 let ownerLimits;
 let accessList;
