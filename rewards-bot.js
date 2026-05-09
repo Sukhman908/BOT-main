@@ -38,7 +38,7 @@ import { requireAdmin }            from "./middleware/adminAuth.js";
 
 // ═══════════════════════ CONFIG ══════════════════════════════════
 const CONFIG = {
-  BOT_TOKEN:   process.env.BOT_TOKEN,
+  BOT_TOKEN:   process.env.BOT_TOKENk,
   CLIENT_ID:   process.env.CLIENT_ID   || "1485034551108702268",
   GUILD_ID:    process.env.GUILD_ID    || "1487143750093377726",
   LOG_CHANNEL: process.env.LOG_CHANNEL || "1494023064730734662",
